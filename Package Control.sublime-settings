@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"CSS3",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"jQuery",
+		"jQuery Snippets pack",
+		"Package Control",
+		"Underscorejs snippets"
+	]
+}
