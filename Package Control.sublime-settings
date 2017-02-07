@@ -1,5 +1,10 @@
 {
 	"bootstrapped": true,
+	"channels":
+	[
+		"https://packagecontrol.io/channel_v3.json",
+		"https://dn-52cik.qbox.me/channel_v3.json"
+	],
 	"in_process_packages":
 	[
 	],
@@ -11,7 +16,11 @@
 		"HTML5",
 		"jQuery",
 		"jQuery Snippets pack",
+		"Lodash Completions",
 		"Package Control",
-		"Underscorejs snippets"
+		"Underscorejs snippets",
+		"Vanilla lodash Snippets",
+		"Vue Syntax Highlight",
+		"Vuejs Snippets"
 	]
 }
