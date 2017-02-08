@@ -2,8 +2,7 @@
 	"bootstrapped": true,
 	"channels":
 	[
-		"https://packagecontrol.io/channel_v3.json",
-		"https://dn-52cik.qbox.me/channel_v3.json"
+		"https://packagecontrol.io/channel_v3.json"
 	],
 	"in_process_packages":
 	[
@@ -12,6 +11,7 @@
 	[
 		"AutoFileName",
 		"CSS3",
+		"Emmet",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
 		"jQuery",
