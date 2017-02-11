@@ -2,9 +2,11 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"EditorConfig",
 		"ES6-Toolkit",
 		"Lodash Completions",
 		"Underscorejs snippets",
 		"Vintage"
-	]
+	],
+	"tab_size": 2
 }

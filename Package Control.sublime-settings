@@ -9,6 +9,7 @@
 	],
 	"installed_packages":
 	[
+		"AngularJS",
 		"AutoFileName",
 		"CSS3",
 		"EditorConfig",
