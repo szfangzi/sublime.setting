@@ -2,6 +2,7 @@
 	"font_size": 12,
 	"ignored_packages":
 	[
+		"ES6-Toolkit",
 		"Lodash Completions",
 		"Underscorejs snippets",
 		"Vintage"
